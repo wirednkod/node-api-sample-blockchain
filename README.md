@@ -1,4 +1,6 @@
 # Α service for querying a blockchain dataset (CSV Files).
+- Using NodeJS, Express, Nodemon (hot reload), Lodash
+- Including tests with Mocha
 
 ## Initial setup
 > npm install : `installs all needed packages for api to run`
