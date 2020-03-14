@@ -1,0 +1,19 @@
+version: '3'
+services:
+  api:
+    image: challenge-api
+    build: .
+    networks:
+      - backend
+    ports:
+      - "8000:8000"
+
+  web-cli:
+    image: challenge-api
+    networks:
+      - backend
+    command: sh
+
+networks:
+  backend:
+    driver: bridge
