@@ -1,4 +1,4 @@
-# Α service for querying a blockchain dataset (CSV Files).
+# Α Public API for querying a blockchain dataset (CSV Files).
 - Using NodeJS, Express, Nodemon (hot reload), Lodash
 - Including tests with Mocha
 
