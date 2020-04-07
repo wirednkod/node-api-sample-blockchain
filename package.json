@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "helmet": "^3.21.3",
     "lodash": "^4.17.15",
-    "minimist": "^1.2.2"
+    "minimist": "^1.2.3"
   },
   "devDependencies": {
     "mocha": "^7.1.0",
