@@ -11,10 +11,10 @@ const config = {
   port: process.env.PORT || 8000,
   csv_dir: './csv_files',
   csv_urls: [
-    'http://www.emmaf.org/csv_files/transactions.csv',
-    'http://www.emmaf.org/csv_files/blocks.csv',
-    'http://www.emmaf.org/csv_files/erc20.csv',
-    'http://www.emmaf.org/csv_files/eth.csv'
+    'http://www.xxxxxxxxx/csv_files/transactions.csv',
+    'http://www.xxxxxxxxx/csv_files/blocks.csv',
+    'http://www.xxxxxxxxx/csv_files/erc20.csv',
+    'http://www.xxxxxxxxx/csv_files/eth.csv'
   ]
 }
 
